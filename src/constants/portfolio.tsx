@@ -208,7 +208,7 @@ export const navigationLinks = [
   {
     name: "Blog",
     icon: "BookText",
-    link: "/blogs",
+    link: "/blogs/coming-soon",
   },
 ];
 
