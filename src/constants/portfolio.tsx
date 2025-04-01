@@ -4,8 +4,8 @@ export const personalInfo = {
   title: "A Full-Stack Developer from India, learning AI & ML",
   description: [
     { text: "Building ", link: null },
-    { text: "Grouple", link: "#" },
-    { text: " (An advanced LMS with practical solutions)", link: "https://grouple-xi.vercel.app/" },
+    { text: "Grouple", link: "https://grouple-xi.vercel.app/" },
+    { text: " (An advanced LMS with practical solutions)", link: null },
   ],
   workHistory: [
     { text: "Developed websites for companies with 3-4 years of experience, ", link: null },
