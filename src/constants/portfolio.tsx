@@ -159,7 +159,7 @@ export const openSourceContributions = [
     name: "SindhuGrow Seeds Website",
     description: "First website build for SindhuGrow Seeds.",
     date: "Aug 2023",
-    link: "https://sindhugrowseed.com",
+    link: "https://sindhugrowseeds.com",
     icon: "" ,// SindhuGrow Seeds Favicon
     color: "bg-green-500" // Example color
   },
